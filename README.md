@@ -26,7 +26,7 @@ networkx -- `pip install networkx`
 7. Pilih folder 'src'<br/>
 8. Klik file `Tucil3_13519107.ipynb`<br/>
 9. Klik `run`<br/>
-10. Ketik file yang ingin dibuka/dieksplor<br/>
+10. Ketik file yang ingin dibuka/dieksplor lalu tekan enter<br/>
 11. Program akan menampilkan graf dari file yang anda input<br/>
 12. Klik `run` lagi dan ketik *Initial Node* dan *Target Node* untuk melihat jarak terdekat antara kedua buah wilayah
 13. Anda dapat mengubah *layout* graf sesuai yang anda mau dengan mengubah variabel 'tipe' sesuai pilihan yang tersedia pada file tersebut
