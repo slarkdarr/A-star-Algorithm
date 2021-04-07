@@ -10,10 +10,10 @@ c. Kemudian, user dapat memilih simpul asal dan simpul tujuan untuk dilihat jara
 d. Setelah itu, program akan menampilkan jarak antara kedua titik hasil masukan user dan menandakan simpul yang dilalui dengan menggunakan algoritma A*.<br/>
 
 ## *Requirement* Utama Program
-<a href="https://www.python.org/downloads/" target="_blank">Python 3</a>
+<a href="https://www.python.org/downloads/" target="_blank">Python 3</a><br/>
 <a href="https://jupyter.org/install" target="_blank">Jupyter Notebook</a>
 ### *Requirement* Lain
-matplotlib -- `pip install matplotlib`
+matplotlib -- `pip install matplotlib`<br/>
 networkx -- `pip install networkx`
   
 ## Cara Menggunakan Program
