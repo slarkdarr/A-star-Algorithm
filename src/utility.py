@@ -3,13 +3,13 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 # Make own haversine for dictionary input
-def haversine(pos1, pos2):
+def haversine(dict1, dict2):
     r = 6371
     deg = pi/180
-    dlat = (pos2["x"]-pos1["x"])*deg
-    dlon = (pos2["y"]-pos1["y"])*deg
-    akar = sin(dlat/2)**2 + cos(pos2["x"]*deg) * cos(pos1["x"]*deg) * sin(dlon/2)**2
-    return 2*r*asin(sqrt(akar))
+    dlat = (dict2["x"] - dict1["x"]) * deg
+    dlon = (dict2["y"] - dict1["y"]) * deg
+    root = sin(dlat/2)**2 + cos(dict2["x"]*deg) * cos(dict1["x"]*deg) * sin(dlon/2)**2
+    return 2*r*asin(sqrt(root))
 
 # Get adjacent list
 def adjacent(id, graph):
@@ -19,7 +19,7 @@ def adjacent(id, graph):
             adjc.append(i)
     return adjc
 
-# Get distance from path to path from the text file
+# Get distance of a path from the text file
 def get_distance(path, parsed_text):
     output = []
     node = parsed_text[1]
