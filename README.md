@@ -23,7 +23,7 @@ networkx -- `pip install networkx`
 4. Buka command prompt<br/>
 5. Ubah direktori ke tempat dimana Anda telah menyimpan file yang telah di-*clone* sebelumnya menggunakan command `cd ...`<br/>
 6. Ketik `jupyter notebook`<br/>
-7. Pilih folder 'src'<br/>
+7. Setelah jendela Jupyter Notebook terbuka, pilih folder 'src'<br/>
 8. Klik file `Tucil3_13519107.ipynb`<br/>
 9. Klik `run`<br/>
 10. Ketik file yang ingin dibuka/dieksplor lalu tekan enter<br/>
