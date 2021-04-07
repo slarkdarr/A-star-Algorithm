@@ -28,7 +28,7 @@ networkx -- `pip install networkx`
 9. Klik `run`<br/>
 10. Ketik file yang ingin dibuka/dieksplor lalu tekan enter<br/>
 11. Program akan menampilkan graf dari file yang anda input<br/>
-12. Klik `run` lagi dan ketik *Initial Node* dan *Target Node* untuk melihat jarak terdekat antara kedua buah wilayah
+12. Anda dapat mengeklik `run` lagi dan mengetik pada kolom *Initial Node* dan *Target Node* untuk melihat jarak terdekat antara kedua buah wilayah
 13. Anda dapat mengubah *layout* graf sesuai yang anda mau dengan mengubah variabel 'tipe' sesuai pilihan yang tersedia pada file tersebut
 
 ## Author / Identitas Pembuat
