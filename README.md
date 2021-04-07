@@ -25,10 +25,10 @@ networkx -- `pip install networkx`
 6. Ketik `jupyter notebook`<br/>
 7. Setelah jendela Jupyter Notebook terbuka, pilih folder 'src'<br/>
 8. Klik file `Tucil3_13519107.ipynb`<br/>
-9. Klik `run`<br/>
+9. Setelah file tersebut terbuka, klik `Run`<br/>
 10. Ketik file yang ingin dibuka/dieksplor lalu tekan enter<br/>
 11. Program akan menampilkan graf dari file yang anda input<br/>
-12. Anda dapat mengeklik `run` lagi dan mengetik pada kolom *Initial Node* dan *Target Node* untuk melihat jarak terdekat antara kedua buah wilayah
+12. Anda dapat mengeklik `Run` lagi dan mengetik pada kolom *Initial Node* dan *Target Node* untuk melihat jarak terdekat antara kedua buah wilayah
 13. Anda dapat mengubah *layout* graf sesuai yang anda mau dengan mengubah variabel 'tipe' sesuai pilihan yang tersedia pada file tersebut
 
 ## Author / Identitas Pembuat
